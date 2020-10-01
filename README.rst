@@ -7,10 +7,12 @@ We now use an `embedded CPython library
 support.
 
 We still believe there is value in a bytecode compilation approach; however,
-we're not dedicating any BeeWare resources to VOC development, and we we're not
-encouraging other to contribute to VOC at this time.
+we're not dedicating any BeeWare resources to VOC development.
 
-If you're still interested in working on VOC, please `get in touch
+**Currently we are not encouraging other to contribute to VOC at this time.**
+
+**If you're still interested in working on VOC, please `get in touch**
+
 <https://gitter.im/beeware/general>`__.
 
 VOC
